@@ -1,55 +1,58 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 100 100"
-   version="1.1"
-   id="svg6"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs6" />
+  viewBox="0 0 100 100"
+  id="ducky-svg"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs id="defs6" />
   <g
-     transform="matrix(1.0674918,0,0,1.1224273,50,51.631653)"
-     fill="#ff0000"
-     id="g6"
-     style="stroke-width:0.913563">
+    transform="matrix(1.0674918,0,0,1.1224273,50,51.631653)"
+    fill="#ff0000"
+    id="icon-group"
+    strokeWidth="0.913563"
+  >
     <rect
-       x="-10"
-       y="-46"
-       width="20"
-       height="46"
-       id="rect2"
-       style="stroke-width:0.913563" />
+      x="-10"
+      y="-46"
+      width="20"
+      height="46"
+      id="rect1"
+      strokeWidth="0.913563"
+    />
     <rect
-       x="-10"
-       y="-46"
-       width="20"
-       height="46"
-       transform="rotate(72)"
-       id="rect3"
-       style="stroke-width:0.913563" />
+      x="-10"
+      y="-46"
+      width="20"
+      height="46"
+      transform="rotate(72)"
+      id="rect2"
+      strokeWidth="0.913563"
+    />
     <rect
-       x="-10"
-       y="-46"
-       width="20"
-       height="46"
-       transform="rotate(144)"
-       id="rect4"
-       style="stroke-width:0.913563" />
+      x="-10"
+      y="-46"
+      width="20"
+      height="46"
+      transform="rotate(144)"
+      id="rect3"
+      strokeWidth="0.913563"
+    />
     <rect
-       x="-10"
-       y="-46"
-       width="20"
-       height="46"
-       transform="rotate(-144)"
-       id="rect5"
-       style="stroke-width:0.913563" />
+      x="-10"
+      y="-46"
+      width="20"
+      height="46"
+      transform="rotate(-144)"
+      id="rect4"
+      strokeWidth="0.913563"
+    />
     <rect
-       x="-10"
-       y="-46"
-       width="20"
-       height="46"
-       transform="rotate(-72)"
-       id="rect6"
-       style="stroke-width:0.913563" />
+      x="-10"
+      y="-46"
+      width="20"
+      height="46"
+      transform="rotate(-72)"
+      id="rect5"
+      strokeWidth="0.913563"
+    />
   </g>
 </svg>
